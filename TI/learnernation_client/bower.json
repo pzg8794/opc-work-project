@@ -1,0 +1,21 @@
+{
+  "name": "is_client",
+  "version": "0.0.1",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.4",
+    "angular-resource": "~1.4.4",
+    "angular-route": "~1.4.4",
+    "bootstrap": "~3.3.5",
+    "Chart.js": "~1.0.2",
+    "jquery": "~2.1.4",
+    "ng-token-auth": "~0.0.28",
+    "slick-carousel": "slick.js#~1.5.8"
+  }
+}

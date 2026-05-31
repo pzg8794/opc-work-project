@@ -1,0 +1,115 @@
+
+	<form method="post" action="<?php echo $PHP_SELF;?>">
+    		<label> <div id="label" for="uName"> <label> Name: </label> </div> </label>
+    		<br> <input id="lebel1" type="text" name="uName" size="50" maxlength="60" 
+    			value="<?php if (isset($_POST['uName'])) echo $_POST['uName']; ?>">
+
+
+    		<br><label> <div id="label" for="uEmail"> <label> Email: </label> </div> </label>
+    		<div id="label"> <input id="lebel1" type="text" name="uEmail" size="50" maxlength="60" 
+    			value="<?php if (isset($_POST['uEmail'])) echo $_POST['uEmail']; ?>">
+		</div>
+
+    		<label> <div id="label" for="uAddress"> <label> Address: </label> </div> </label>
+    		<div id="label"> <input id="lebel1" type="text" name="uAddress" size="50" maxlength="60" 
+    			value="<?php if (isset($_POST['uAddress'])) echo $_POST['uAddress']; ?>">
+		</div>
+
+    		<div id="label"> 
+    		<label> No. of People: </label> <input id="lebel1" type="text" name="uAddress" size="10" maxlength="10" 
+    			value="<?php if (isset($_POST['npeople'])) echo $_POST['npeople']; ?>">
+		</div>
+
+		<div id="label1"> <label> Date of Event: </label>
+			<?php
+				$date =date('Y-m-d');
+				$month =date("M",strtotime($date))."(".date("m",strtotime($date)).")";
+
+				// current year
+   				$now = date('Y');
+
+	    			// build years menu
+				echo '<select name="cyear">' . PHP_EOL;	
+				$y=$now;
+    				for ($counter =0; $counter<=1; $counter++) {
+        				echo '  <option value="' . $y . '">' . $y . '</option>' . PHP_EOL;
+        				$y++;
+	    			}
+    				echo '</select>' . PHP_EOL;
+
+	    			// build months menu
+    				echo '<select name="cmonth">' . PHP_EOL;
+    				for ($m=date('m', strtotime('-0 month')); $m<=12; $m++) {
+        				echo '  <option value="' . $m . '">' . date('M', mktime(0,0,0,$m,1)) . '</option>' . PHP_EOL;
+    				}
+    				echo '</select>' . PHP_EOL;
+
+				$t=date('d-m-Y');
+				//$dayName = strtolower(date("D",strtotime($t)));
+				$dayNum = strtolower(date("d",strtotime($t)));
+	   			// build days menu
+    				echo '<select name="cday">' . PHP_EOL;
+    				for ($d=1; $d<=31; $d++) {
+       					echo '<option value="' . $d . '">' . $d . '</option>' . PHP_EOL;
+   				}
+    				echo '</select>' . PHP_EOL; 
+			?>
+		</div>	
+
+		<div id="label1"> <label> Event Start Time: </label> 
+			Hour:
+			<select name="shour">
+				<?php foreach (range(0,24) as $hour):?>
+					<option value="<?php echo $hour;?>"><?php echo $hour;?></option>
+				<?php endforeach?>
+			</select>
+
+			Minute(s):
+			<select name="sminute">
+				<?php foreach (range(0,59) as $minute):?>
+					<option value="<?php echo $minute;?>"><?php echo $minute;?></option>
+				<?php endforeach?>
+			</select>
+
+	  		<!-- <input id="Event_sTime" type="text" name="Event_sTime" size="30" maxlength="40"
+  			value=""<?php if (isset($_POST['Event_sTime'])) echo $_POST['Event_sTime']; ?>"> -->
+		</div>		
+
+		<div id="label1"> <label> Event End Time : </label>
+			Hour:
+			<select name="ehour">
+				<?php foreach (range(0,24) as $hour):?>
+					<option value="<?php echo $hour;?>"><?php echo $hour;?></option>
+				<?php endforeach?>
+			</select>
+
+			Minute(s):
+			<select name="eminute">
+				<?php foreach (range(0,59) as $minute):?>
+					<option value="<?php echo $minute;?>"><?php echo $minute;?></option>
+				<?php endforeach?>
+			</select>
+
+	  		<!-- <input id="Event_eTime" type="text" name="Event_eTime" size="30" maxlength="40"
+  			value=""<?php if (isset($_POST['Event_eTime'])) echo $_POST['Event_eTime']; ?>"> -->
+		</div>
+
+<label> Meal Type: </label> <input type="radio" name="mealtype"
+<?php if (isset($mealtype) && $mealtype=="buffet") echo "checked";?>
+value="buffet">Buffet
+<input type="radio" name="mealtype"
+<?php if (isset($mealtype) && $mealtype=="plated") echo "checked";?>
+value="plated">Plated Meal
+
+  		<div id="label" for="dcomments"> <label> Dietary Restrictions: </label> </div>
+ 		<textarea name='dcomments' id='dcomments'></textarea><br />
+  		<input type='hidden' name='articleid' id='articleid' 
+  		value=""<?php if (isset($_POST['dcomments'])) echo $_POST['dcomments']; ?>">
+
+  		<div id="label" for="comments"> <label> Special Requests: </label> </div>
+ 		<textarea name='comments' id='comments'></textarea><br />
+  		<input type='hidden' name='articleid' id='articleid' 
+  		value=""<?php if (isset($_POST['comments'])) echo $_POST['comments']; ?>">
+
+	<p><input id="submit" type="submit" name="submit" value="ADD CLASS"></p>
+	</form> <!-- End of the page content. --> 

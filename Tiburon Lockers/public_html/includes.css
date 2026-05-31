@@ -1,0 +1,160 @@
+/*set general side button styles */
+li {
+  width:115px; list-style-type :none; margin-bottom:3px; text-align:center;
+}
+
+/*set general anchor style*/
+li a {
+  display: block; width:115px; color:white; font-weight:bold; text-decoration:none
+}
+
+/* specify state styles. */
+/* mouseout (default) */
+li a {background: #5B78BE; border: 4px outset #aabaaff;
+}
+
+/* mouseover */
+li a:hover {
+  display:block; background: #0a4adf; border: 4px outset #8abaff; width:115px;
+}
+
+/*onmousedown*/
+li a:active {background:#aecbff; border: 4px inset #aecbff;}
+
+body{
+text-align:center; color:black; font-family: "times new roman";
+font-size: 100%; background:url(pattern3.png)#A98436; no-repeat center top;
+background-size: 10%;
+}
+
+  nav ul ul {
+  display: none;
+  }
+  nav ul li:hover> ul{
+  display: block;
+  }
+
+  nav{ position:absolute; top:85px; color=navy; width:105px; text-align:left;left:-40px;
+  margin:0;  }
+
+
+u1 {
+  position:absolute; top:105px; color=navy; width:135px; text-align:left;
+  margin:0;  
+}
+  
+#header {
+  background:#FFF url(tiburon.png)no-repeat center top; width:290px; height:80px;
+  margin:auto; padding: 10px 945px 10px 0px; text-align:center; 
+}
+  
+  //h1 {
+  //position:relative; top:38px; font-size:345%; color:blue; margin:auto 0px auto 160px;
+  //width: 487px;
+  //}
+
+#reg-navigation ul{ position:absolute; top:-3px; right:10px; color:navy; width:135px; text-align:center;
+  margin:5px; 0 0;}
+  
+h1{
+  
+	position: absolute; color:navy; text-align:left; margin:auto; 
+	margin-left:2em;top:34px;
+	font-family: 'Times New Roman';
+	font-size: 14px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: bold;
+	//font-size:150%;
+}
+  
+h2 {
+	font-size:150%; color:black; text-align:center; margin:auto; 
+	//margin-left:-9.5em;
+}
+
+h3 {
+	font-size:110%; color:black; text-align:center; 
+	//clear:both; height:3em; 
+	//margin-top: -5em;
+}
+
+#container {
+	position:relative; min-width:960px; max-width:1200px; margin:auto; text-align: left; 
+}
+
+#midcol {
+	margin-left:140px; margin-right:140px;margin: auto;
+}
+
+#content {
+	margine-left:150px; margin-right:150px; 
+	//margin:auto; 
+	margin-left:8em;
+}
+
+table {
+	width:700px; border:1px black solid; border-collapse:collapse; margin:auto;
+}
+
+td {
+	border:1px black solid; padding:1px 0 1px 4px; text-align:left;
+}
+
+form {
+	margin-left: 180px;
+}
+
+#footer {
+	margin: auto; text-align:center;
+
+  //#footer {
+  //clear:both;
+  //position:relative;
+  //z-index:10;
+  //height:3em;
+ //margin-top:22em;
+  //}
+}
+
+p.error{
+     color:red; font-size:105%; font-weight:bold; text-align:center;
+}
+
+.label {
+	float:left; width:210px; text-align:right; clear:left; margin-right:2px;
+	//margin-left:20em;
+}
+
+#submit {
+	margin-left:215px;
+}
+
+#info-col{
+	position:relative; top:320px; right:10px; color:black; width:300px; text-align:center;
+	margin:5px auto 0;
+}
+
+span.left{ 
+	text-align:left; 
+}
+
+#loginfields input {
+	float:left; margin-bottom:5px;
+}
+
+#loginfields label { 
+	margin-bottom:5px;
+}
+
+#loginfields spam {
+	float:left;
+}
+
+#loginfields submit { 
+	margin:5px auto 5px auto; 
+}
+
+span.left {
+	text-align:left;
+}

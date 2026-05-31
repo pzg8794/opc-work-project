@@ -1,0 +1,8 @@
+{
+	// forever configuration file
+	"append": true,
+	"watch": true,
+	"script": "bin/www",
+	"sourceDir": "/var/www/learnernation_client",
+	"watchIgnore": "logs"
+}
