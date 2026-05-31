@@ -1,0 +1,80 @@
+<!-- AUTO-GENERATED-PORTFOLIO-README -->
+# public_html
+
+This index keeps the directory navigable and points each item to its current role.
+
+## Contents
+
+- `images/` - Directory containing related files for this portfolio item.
+- `ver2/` - Directory containing related files for this portfolio item.
+- `12vps.php` - File, 4.7 KB.
+- `5vps.php` - File, 4.9 KB.
+- `addevents.php` - File, 588 B.
+- `addProject.php` - File, 8.4 KB.
+- `admin-nav.php` - File, 2.0 KB.
+- `admin-page.php` - File, 1.4 KB.
+- `admin_view-users-page.php` - File, 4.0 KB.
+- `assembly.php` - File, 2.3 KB.
+- `atstud.php` - File, 3.3 KB.
+- `backend.php` - File, 1.3 KB.
+- `calendarEvent.php` - File, 15.5 KB.
+- `calendarEvent1.php` - File, 15.5 KB.
+- `chargedaddyForm.php` - File, 1.7 KB.
+- `chassis.php` - File, 3.6 KB.
+- `circuit.php` - File, 3.5 KB.
+- `compmnt.php` - File, 2.6 KB.
+- `delete_CDrecord.php` - File, 3.3 KB.
+- `delete_record.php` - File, 3.2 KB.
+- `e-lockers.jpg` - File, 4.2 KB.
+- `ecalendar.php` - File, 4.3 KB.
+- `edit_CDrecord.php` - File, 12.3 KB.
+- `edit_record.php` - File, 5.3 KB.
+- `events.php` - File, 4.0 KB.
+- `footer.php` - File, 217 B.
+- `form.php` - File, 27.4 KB.
+- `formcell.php` - File, 27.4 KB.
+- `frontend.php` - File, 859 B.
+- `header.php` - File, 571 B.
+- `home.html` - File, 2.0 KB.
+- `includes.css` - File, 3.3 KB.
+- `index.php` - File, 986 B.
+- `index2.php` - File, 508 B.
+- `layout-styles.css` - File, 4.3 KB.
+- `linkage.php` - File, 3.9 KB.
+- `login.php` - File, 3.3 KB.
+- `logout.php` - File, 521 B.
+- `LTBL.JPG` - File, 37.8 KB.
+- `magnet.php` - File, 3.4 KB.
+- `mainac.php` - File, 3.9 KB.
+- `member-nav.php` - File, 1.9 KB.
+- `members-page.php` - File, 1.6 KB.
+- `menu.php` - File, 2.0 KB.
+- `mysqli_connect.php` - File, 516 B.
+- `nav1.php` - File, 1.3 KB.
+- `nav2.php` - File, 2.6 KB.
+- `page-2.php` - File, 807 B.
+- `pattern2.png` - File, 789 B.
+- `pattern3.png` - File, 788 B.
+- `piter.php` - File, 840 B.
+- `pjrecords.php` - File, 2.8 KB.
+- `pjsmgnt.php` - File, 2.1 KB.
+- `pnav.php` - File, 1.7 KB.
+- `quad.php` - File, 3.2 KB.
+- `reed.php` - File, 2.7 KB.
+- `register-page.php` - File, 5.8 KB.
+- `register-password.php` - File, 4.7 KB.
+- `register-thanks.php` - File, 553 B.
+- `RegistrationTem.php` - File, 190 B.
+- `rework.php` - File, 3.6 KB.
+- `robert.php` - File, 483 B.
+- `Script.js` - File, 221 B.
+- `search.php` - File, 1.6 KB.
+- `servo.php` - File, 2.9 KB.
+- `sharky.gif` - File, 13.4 KB.
+- `slide.php` - File, 1.9 KB.
+- `test.php` - File, 3.9 KB.
+- `tiburon.png` - File, 16.6 KB.
+- `update_events.php` - File, 2.2 KB.
+- `usersForm.php` - File, 2.2 KB.
+- `view_found_CDrecord.php` - File, 15.4 KB.
+- `view_found_record.php` - File, 3.0 KB.

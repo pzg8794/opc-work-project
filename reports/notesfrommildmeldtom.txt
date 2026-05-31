@@ -1,0 +1,123 @@
+Goals for product development: Company Growth
+
+	Sell more lockers:
+		Customization, feature to deal
+
+
+	Better Venue/User Satisfaction:
+
+	Accountibility:  Ensure who does what when.
+		Cash Management
+		PCI Compliance
+		Better Security Features
+
+	Scalability:
+
+	MISC
+
+	Improve Profitability on Exisitng Products
+
+
+New Features, Specific:
+
+	
+
+Using paypal as a credit card processor in kiosk?
+
+Options for Giving Change.
+	Give a credit on a rental, how to do?  Receipt (24 hour delay before use, email the coupon, how to do this quickly?), user profiles.
+Using NFC for remote access and/or the change issue noted above
+
+Ability for a kiosk to take over for another kiosk if it fails
+
+Quing Issue:
+Mobile, Admin Stations
+
+Extending Rentals:
+How to interface with scheduling, how to pay, how to track and manage
+Rules
+24 hours after a non ended rental.  
+
+FILO usage, when a locker is returned it is the last in the rental que
+
+Checked out, but door accidently shut, adjustable reenter option
+
+Sold out notifications, email
+
+Notifications for paper low and bill acceptor full
+
+Limit to reservation pool?  Considerations with turnover
+
+UI design to as few screentouches
+
+Mobile application to allow full usage of the system, web interface/application interface
+More discussion needed on this from a technical standpoint
+
+Floating rentals
+Need some way to have no physical token to go from locker to locker
+Vending wristbands to access floating
+Post check out printing of the barcodes/coupon codes
+
+ADA compliance research needed
+
+Credentialled hardware access TSS area
+
+Review Tom's new requested Admin Screens
+Need for setting date parameters, run reports on a date range
+Report need to include filters for:
+	Venue type
+	Day of the week
+	Weekend/ weekdays
+	Averages
+	Locker Type/Size
+	Detailed history as far back as we can go
+System should not send automated reports unless there are events on the system to report
+Venue card reporting should be it's own feature
+
+admin button, access all, by venue, across the fleet
+
+Settings for reporting notifications, like the android alarm app
+No events, no report
+Accesses Hardware.
+Cash Reset
+Nightly Report
+Abandoned Lockers
+Printer Low
+Cash getting full
+Sellout
+Loss of connectivity
+Door broken open?
+Lost communication with doors
+
+"Command Central"
+
+Cumulative reporting
+
+Events need to capture the means of opening (i.e. Kiosk, mobile device, etc.)
+
+Centralized reporting, 
+cumulative data capture
+sorting by venue, date, events ect
+
+Log time spent doing repairs/service
+
+Reports/Main Screen need to include usage and occupancy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

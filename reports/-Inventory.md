@@ -1,0 +1,197 @@
+<!-- AUTO-GENERATED-PORTFOLIO-README -->
+# reports
+
+This index keeps the directory navigable and points each item to its current role.
+
+## Contents
+
+- `09septaa.txt` - File, 9.9 MB.
+- `2010session (2).rtf` - File, 17.2 MB.
+- `2010session.pdf` - File, 637.5 KB.
+- `2010session.rtf` - File, 3.0 MB.
+- `2010session1.rtf` - File, 17.2 MB.
+- `2013CBC_Advisory_Manual.pdf` - File, 12.3 MB.
+- `ABOUT_APACHE.txt` - File, 13.4 KB.
+- `ADA Accessible Lockers.docx` - File, 595.8 KB.
+- `Additional Forms (2015).pdf` - File, 1.4 MB.
+- `AllDay_Multi-Day- Holiday- Peak Seaon-Time Decay.docx` - File, 69.8 KB.
+- `AMERICAN_NV200_LEAFLET.pdf` - File, 455.4 KB.
+- `Apex_Manual.pdf` - File, 397.1 KB.
+- `ApplicationParts.txt` - File, 1.9 KB.
+- `Audi Viz Feb 28-Rev 3.doc` - File, 649.2 KB.
+- `Audi Viz Feb 28-Rev 3.pdf` - File, 113.0 KB.
+- `AudiVizFeb28-Rev3.doc` - File, 1.4 MB.
+- `Bill Acceptors and Features Comparison.docx` - File, 146.0 KB.
+- `Boarder 2.docx` - File, 25.5 KB.
+- `Boarder.docx` - File, 90.8 KB.
+- `bv50-leaflet.pdf` - File, 1.8 MB.
+- `bv50-technical-manual.pdf` - File, 1.1 MB.
+- `Card-No1-Information.pdf` - File, 1.1 MB.
+- `cbu.txt` - File, 6.1 KB.
+- `changelog--from-inkzine-plus-inkzine-plus.txt` - File, 49 B.
+- `changelog--from-MadChefKitchen-inkzine.txt` - File, 1.7 KB.
+- `changelog.txt` - File, 141 B.
+- `CHANGES--from-xampp-apache.txt` - File, 164.6 KB.
+- `changes.txt` - File, 753 B.
+- `Codificador CRT-591_ct_ENG1.pdf` - File, 36.6 KB.
+- `Communication Protocol CD.docx` - File, 23.3 KB.
+- `Communication Protocol EL.doc` - File, 112.5 KB.
+- `confirmation letter PG.docx` - File, 30.3 KB.
+- `Copy of index.txt` - File, 545 B.
+- `Director of Marketing (Autosaved).docx` - File, 14.9 KB.
+- `Director of Marketing.docx` - File, 17.2 KB.
+- `download.csv` - File, 3.9 KB.
+- `draft1.txt` - File, 4.5 KB.
+- `draft2.txt` - File, 22.9 KB.
+- `draft3.txt` - File, 4.6 KB.
+- `draft4.txt` - File, 2.0 KB.
+- `draft5.txt` - File, 27.4 KB.
+- `draft6.txt` - File, 8.6 KB.
+- `draft7.txt` - File, 18.4 KB.
+- `End.pdf` - File, 111.3 KB.
+- `F1 Tiburon RFP Introduction.docx` - File, 52.9 KB.
+- `F2 Administration Local Interface.docx` - File, 1.4 MB.
+- `F3 Administration Web Interface.docx` - File, 1.7 MB.
+- `F4 User Interface.docx` - File, 803.6 KB.
+- `F5 Mobile Interface.docx` - File, 371.3 KB.
+- `F7 3rd Party Hardware.docx` - File, 49.7 KB.
+- `F8 Tiburon Hardware.docx` - File, 48.0 KB.
+- `Feature Specs.docx` - File, 15.5 KB.
+- `Final Safety & Risk Declaration Cardiff].doc` - File, 8.0 MB.
+- `Final Safety & Risk Declaration Cardiff].pdf` - File, 245.5 KB.
+- `Fire Risk Assessment.doc` - File, 412.0 KB.
+- `FoodQuestionnaireShort_member.docx` - File, 24.1 KB.
+- `Global Warming--from-Global-Warming-Speech-Global-Warming.docx` - File, 464.6 KB.
+- `Global Warming.1.docx` - File, 10.5 KB.
+- `GLOBAL WARMING.docx` - File, 16.7 KB.
+- `Globalization and Technology.docx` - File, 2.0 MB.
+- `Greenhouse Gase1.docx` - File, 15.7 KB.
+- `Greenhouse Gases.docx` - File, 15.8 KB.
+- `hbu.txt` - File, 5.6 KB.
+- `HelpScript.txt` - File, 4.7 KB.
+- `HT-24 28 ENCODER.pdf` - File, 102.2 KB.
+- `hw3 (for loops).pdf` - File, 155.4 KB.
+- `impactly-hubspot-vast-css backup.txt` - File, 64.9 KB.
+- `Indoors.docx` - File, 670.0 KB.
+- `INSTALL.txt` - File, 4.8 KB.
+- `Instructions.docx` - File, 3.9 MB.
+- `Instructions.pdf` - File, 873.3 KB.
+- `International Cinema.docx` - File, 17.2 KB.
+- `INTRODUCTION.docx` - File, 15.7 KB.
+- `INTRODUCTION1.docx` - File, 15.5 KB.
+- `invite 3.docx` - File, 15.1 KB.
+- `jbu.txt` - File, 1020 B.
+- `John - Audi Viz Feb 28-Rev 3-H.docx` - File, 245.6 KB.
+- `KillDisk.pdf` - File, 493.9 KB.
+- `license--from-inkzine-plus-inkzine-plus.txt` - File, 34.3 KB.
+- `license--from-MadChefKitchen-inkzine-plus1.txt` - File, 35.0 KB.
+- `license--from-MadChefKitchen-inkzine.txt` - File, 35.0 KB.
+- `license--from-MadChefKitchen-starsofa.txt` - File, 1.9 KB.
+- `license--from-MadChefKitchen-starsofa1.txt` - File, 1.8 KB.
+- `LICENSE.txt` - File, 37.8 KB.
+- `Logo.docx` - File, 322.0 KB.
+- `MadChefKitchen.pdf` - File, 3.9 MB.
+- `Marketing Breaf.docx` - File, 71.4 KB.
+- `Marketing Program.doc` - File, 61.5 KB.
+- `Mechanical Operating and Maintenance Manual.doc` - File, 6.5 MB.
+- `Mechanical Operating and Maintenance Manual.docx` - File, 2.4 MB.
+- `Mechanical Operating and Maintenance Manual.pdf` - File, 2.8 MB.
+- `Medical Consent Form (Park & Play)[1].doc` - File, 8.0 MB.
+- `Medical Consent Form _Activities_[1] Cardiff.doc` - File, 7.4 MB.
+- `Medical Consent Form _Activities_[1] Cardiff.pdf` - File, 315.4 KB.
+- `Melting Ice Caps.docx` - File, 218.8 KB.
+- `Microsoft Word - Fire.rtf` - File, 9.0 MB.
+- `Microsoft Word - Food Policy.doc` - File, 15.8 MB.
+- `Microsoft Word - Form 01 Nominated Supplier List.doc` - File, 360.5 KB.
+- `Microsoft Word - Form 02 Delivery Monitoring.rtf` - File, 618.9 KB.
+- `Microsoft Word - H&S policy.doc` - File, 9.4 MB.
+- `Microsoft Word - H&S Risk Assessment.doc` - File, 9.3 MB.
+- `mockUp.pdf` - File, 1.1 MB.
+- `mockup2, editing.doc` - File, 3.6 MB.
+- `mockup2.doc` - File, 4.2 MB.
+- `mockUp2.pdf` - File, 1.1 MB.
+- `Montana.docx` - File, 97.5 KB.
+- `Multidaywriteup DS.docx` - File, 63.6 KB.
+- `MX53_Combo_SC.pdf` - File, 129.8 KB.
+- `myscripts.txt` - File, 1020 B.
+- `mystyle.txt` - File, 4.9 KB.
+- `nav buttons.txt` - File, 300 B.
+- `NDA_Piter.docx` - File, 297.5 KB.
+- `NDA_Piter.pdf` - File, 211.0 KB.
+- `New AD COPY.docx` - File, 8.1 MB.
+- `notesfrommildmelddan.txt` - File, 2.1 KB.
+- `notesfrommildmeldtom.txt` - File, 2.6 KB.
+- `NOTICE.txt` - File, 1.6 KB.
+- `NV200 appendices manual section 6.pdf` - File, 286.5 KB.
+- `NV200 field service manual section 2.pdf` - File, 408.5 KB.
+- `NV200 manual introduction.pdf` - File, 270.1 KB.
+- `NV200 mechanical and electrical manual section 4.pdf` - File, 837.1 KB.
+- `NV200 quick start manual section 1.pdf` - File, 484.0 KB.
+- `NV200 software implementation manual section 5.pdf` - File, 385.6 KB.
+- `NV200 software support manual section 3.pdf` - File, 1.5 MB.
+- `nv200-leaflet.pdf` - File, 2.0 MB.
+- `NV200_appendices_manual_section_6.docx` - File, 230.3 KB.
+- `NV9USB appendices manual section 6.pdf` - File, 291.7 KB.
+- `NV9USB field service manual section 2.pdf` - File, 938.8 KB.
+- `NV9USB manual introduction.pdf` - File, 305.6 KB.
+- `NV9USB mechanical and electrical manual section 4.pdf` - File, 1.4 MB.
+- `NV9USB quick start manual section 1.pdf` - File, 679.0 KB.
+- `NV9USB software implementation manual section 5.pdf` - File, 480.2 KB.
+- `NV9USB software support manual section 3.pdf` - File, 1.4 MB.
+- `nv9usb-maintenance-guide.pdf` - File, 541.4 KB.
+- `OcoeeInnRaftingWaiver(fixed).docx` - File, 44.8 KB.
+- `OcoeeInnRaftingWaiver(fixed).rtf` - File, 48.1 KB.
+- `OcoeeInnRaftingWaiver.doc` - File, 8.6 KB.
+- `OcoeeInnRaftingWaiver.pdf` - File, 71.4 KB.
+- `OPENSSL-NEWS.txt` - File, 31.2 KB.
+- `OPENSSL-README.txt` - File, 10.3 KB.
+- `Outline.docx` - File, 18.1 KB.
+- `passwords.txt` - File, 822 B.
+- `PeriodicW-O-OLF.docx` - File, 57.8 KB.
+- `PG Confirmation Letter.pdf` - File, 446.7 KB.
+- `PPTLS_Proctoring_OffCampusInstructions.pdf` - File, 323.4 KB.
+- `Progressive.docx` - File, 44.6 KB.
+- `Project-Mock up (2).docx` - File, 2.8 MB.
+- `Project-Mock up.docx` - File, 2.7 MB.
+- `Project-Mock up2.docx` - File, 3.1 MB.
+- `Project-Mockup.pdf` - File, 1.3 MB.
+- `Project-Mockup0.pdf` - File, 1.3 MB.
+- `PTLS_Proctoring_OffCampusInstructions.pdf` - File, 439.9 KB.
+- `readme--from-inkzine-plus-inkzine-plus.txt` - File, 2.8 KB.
+- `readme--from-MadChefKitchen-inkzine.txt` - File, 2.9 KB.
+- `readme--from-MadChefKitchen-starsofa.txt` - File, 208 B.
+- `readme--from-MadChefKitchen-starsofa1.txt` - File, 208 B.
+- `README--from-xampp-apache.txt` - File, 4.6 KB.
+- `readme.auth_remote.txt` - File, 4.5 KB.
+- `readme.txt` - File, 1.9 KB.
+- `readme_de.txt` - File, 7.9 KB.
+- `readme_en.txt` - File, 7.7 KB.
+- `Reichmann.docx` - File, 191.0 KB.
+- `Rent.pdf` - File, 333.2 KB.
+- `Ride Lockers.docx` - File, 54.9 KB.
+- `script.txt` - File, 2.3 KB.
+- `simple-products.csv` - File, 106 B.
+- `Snow Pic.docx` - File, 273.0 KB.
+- `SNOWPARK_11-BB.pdf` - File, 47.6 KB.
+- `Sponsored Links.docx` - File, 15.6 KB.
+- `SummaryReport.pdf` - File, 231.8 KB.
+- `Surfas Schedule v2.docx` - File, 17.5 KB.
+- `Surfas Schedule.docx` - File, 15.0 KB.
+- `Survey.docx` - File, 23.3 KB.
+- `Terms and Conditions _Park & Play_[1].doc` - File, 577 B.
+- `Terms and Conditions for Activities[1] Cardiff.doc` - File, 577 B.
+- `Terms and Conditions for Activities[1] Cardiff.pdf` - File, 55.9 KB.
+- `TIB_003.1 - Statement of Work - E-locker and Charge Daddy - TrackChanges....pdf` - File, 770.7 KB.
+- `Tiburon Charge Daddy Administrator User Guide Tech Instruction 1.d.docx` - File, 475.1 KB.
+- `Tiburon Charge Daddy Venue User Guide Tech Instruction 1.d.docx` - File, 2.3 MB.
+- `TLS_Proctoring_OffCampusInstructions.docx` - File, 26.3 KB.
+- `TLS_Proctoring_OffCampusInstructions.pdf` - File, 241.1 KB.
+- `UPDATED CULVER CITY CLASS SCHEDULE.docx` - File, 19.6 KB.
+- `US National WW Center Waiver.doc` - File, 308.1 KB.
+- `US National WW Center Waiver.pdf` - File, 49.4 KB.
+- `Visio-Progressive Flowchart.pdf` - File, 10.7 KB.
+- `WA F&B BP.101.doc` - File, 36.5 KB.
+- `WA F&B BP.101.docx` - File, 64.3 KB.
+- `WA F&B BP.101.pdf` - File, 152.5 KB.
+- `waiver SURF LA.doc` - File, 17.4 KB.
+- `waiver SURF LA.pdf` - File, 21.5 KB.

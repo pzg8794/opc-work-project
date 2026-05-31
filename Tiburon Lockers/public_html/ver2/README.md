@@ -1,0 +1,73 @@
+<!-- AUTO-GENERATED-PORTFOLIO-README -->
+# ver2
+
+This index keeps the directory navigable and points each item to its current role.
+
+## Contents
+
+- `12vps.php` - File, 3.8 KB.
+- `5vps.php` - File, 3.9 KB.
+- `addevents.php` - File, 588 B.
+- `addProject.php` - File, 10.1 KB.
+- `admin-nav.php` - File, 1.7 KB.
+- `admin-page.php` - File, 2.2 KB.
+- `admin_view-users-page.php` - File, 5.1 KB.
+- `adminpage.html` - File, 1.9 KB.
+- `asmstyle.css` - File, 1.1 KB.
+- `assembly-member.php` - File, 2.4 KB.
+- `assembly.php` - File, 2.8 KB.
+- `atstud.php` - File, 2.6 KB.
+- `backend.php` - File, 1.3 KB.
+- `chargedaddyForm.php` - File, 2.7 KB.
+- `chassis.php` - File, 2.9 KB.
+- `circuit.php` - File, 2.8 KB.
+- `compmnt.php` - File, 2.1 KB.
+- `delete_CDrecord.php` - File, 4.1 KB.
+- `delete_record.php` - File, 4.1 KB.
+- `e-lockers.jpg` - File, 4.2 KB.
+- `ecalendar.php` - File, 5.4 KB.
+- `edit_CDrecord.php` - File, 14.5 KB.
+- `edit_record.php` - File, 6.5 KB.
+- `error.php` - File, 1.8 KB.
+- `events.php` - File, 4.0 KB.
+- `feedback.php` - File, 2.0 KB.
+- `footer.php` - File, 388 B.
+- `forgotpass.php` - File, 4.0 KB.
+- `frontend.php` - File, 859 B.
+- `header.php` - File, 388 B.
+- `index.php` - File, 1.8 KB.
+- `linkage.php` - File, 3.2 KB.
+- `login.php` - File, 5.0 KB.
+- `logout.php` - File, 514 B.
+- `magnet.php` - File, 2.8 KB.
+- `mainac.php` - File, 3.1 KB.
+- `mainbar.php` - File, 4.7 KB.
+- `member-nav.php` - File, 3.4 KB.
+- `members-page.php` - File, 2.9 KB.
+- `menu.php` - File, 2.9 KB.
+- `mysqli_connect.php` - File, 516 B.
+- `nav1.php` - File, 1.1 KB.
+- `nav2.php` - File, 1.3 KB.
+- `piter.php` - File, 1.7 KB.
+- `pjrecords.php` - File, 3.8 KB.
+- `pjsmgnt.php` - File, 1.8 KB.
+- `quad.php` - File, 2.7 KB.
+- `reed.php` - File, 2.2 KB.
+- `register-page.php` - File, 7.4 KB.
+- `register-password.php` - File, 6.2 KB.
+- `resetpass.php` - File, 4.4 KB.
+- `rework.php` - File, 2.8 KB.
+- `robert.php` - File, 1.3 KB.
+- `search-member.php` - File, 2.1 KB.
+- `search.php` - File, 2.5 KB.
+- `send_feedback.php` - File, 1.2 KB.
+- `servo.php` - File, 2.3 KB.
+- `slide.php` - File, 1.9 KB.
+- `sticky-footer-navbar.css` - File, 674 B.
+- `thank_you.php` - File, 1.7 KB.
+- `thomas.php` - File, 1.3 KB.
+- `tiburon.png` - File, 16.6 KB.
+- `update_events.php` - File, 2.2 KB.
+- `usersForm.php` - File, 2.7 KB.
+- `view_found_CDrecord.php` - File, 15.2 KB.
+- `view_found_record.php` - File, 4.0 KB.

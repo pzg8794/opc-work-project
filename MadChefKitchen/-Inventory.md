@@ -1,0 +1,108 @@
+<!-- AUTO-GENERATED-PORTFOLIO-README -->
+# MadChefKitchen
+
+This index keeps the directory navigable and points each item to its current role.
+
+## Contents
+
+- `inkzine/` - Directory containing related files for this portfolio item.
+- `inkzine-plus/` - Directory containing related files for this portfolio item.
+- `inkzine-plus1/` - Directory containing related files for this portfolio item.
+- `other files/` - Directory containing related files for this portfolio item.
+- `starsofa/` - Directory containing related files for this portfolio item.
+- `starsofa1/` - Directory containing related files for this portfolio item.
+- `144053502395509.gif` - File, 4.8 KB.
+- `about.php` - File, 342 B.
+- `blog-daily.jpg` - File, 30.9 KB.
+- `blogdaily.jpg` - File, 32.9 KB.
+- `browser.php` - File, 1.3 KB.
+- `calendar.css` - File, 2.3 KB.
+- `calendar.php` - File, 6.6 KB.
+- `calendarEvent.php` - File, 4.1 KB.
+- `calendarf.js` - File, 9.5 KB.
+- `Card-No 4-Information.jpg` - File, 137.8 KB.
+- `Card-No1-Information.jpg` - File, 143.5 KB.
+- `Card-No1-Information_edited-2.jpg` - File, 138.1 KB.
+- `Card-No1-Information_edited-3.jpg` - File, 148.0 KB.
+- `Card-No1-Information_edited-4.jpg` - File, 142.1 KB.
+- `Card-No2-Information.jpg` - File, 307.4 KB.
+- `Card-No3-Information.jpg` - File, 232.3 KB.
+- `class-schedule.jpg` - File, 34.7 KB.
+- `class-schedule1.jpg` - File, 39.5 KB.
+- `class-schedule2.jpg` - File, 28.9 KB.
+- `class-schedule_edited-1.jpg` - File, 26.9 KB.
+- `class-schedule_edited-2.jpg` - File, 26.9 KB.
+- `Class_Schedule.gif` - File, 24.6 KB.
+- `classEvent.php` - File, 39.9 KB.
+- `classEvents.php` - File, 10.8 KB.
+- `classmgnt.php` - File, 138 B.
+- `controls.png` - File, 2.7 KB.
+- `customizer.js` - File, 913 B.
+- `elements.css` - File, 2.0 KB.
+- `form.php` - File, 6.0 KB.
+- `form1.php` - File, 9.2 KB.
+- `gallery.jpg` - File, 49.3 KB.
+- `gallery.php` - File, 2.0 KB.
+- `gallery.png` - File, 163.6 KB.
+- `hireachef.jpeg` - File, 31.8 KB.
+- `Hiring.php` - File, 23.0 KB.
+- `Hiring1.php` - File, 20.6 KB.
+- `hiringform.php` - File, 138 B.
+- `HW 3b.c` - File, 387 B.
+- `imageedit_3_6059873595.jpg` - File, 5.9 KB.
+- `include.css` - File, 3.1 KB.
+- `logo.gif` - File, 17.3 KB.
+- `logos2_edited-4.jpg` - File, 88.5 KB.
+- `logos2_edited-5.jpg` - File, 73.5 KB.
+- `MadChefKitchen_edited-1.png` - File, 1.8 MB.
+- `madcheft.jpg` - File, 10.1 KB.
+- `madlogo.png` - File, 7.8 KB.
+- `madlogo_edited-1.jpg` - File, 32.2 KB.
+- `main 3.css` - File, 48.3 KB.
+- `main.css` - File, 39.9 KB.
+- `management.php` - File, 138 B.
+- `mcklogo.png` - File, 1.7 MB.
+- `mcstyle.css` - File, 12.0 KB.
+- `menu.php` - File, 4.0 KB.
+- `menu1.php` - File, 4.1 KB.
+- `Mobile_Detect.php` - File, 76.7 KB.
+- `my_js.js` - File, 546 B.
+- `myscripts.js` - File, 1020 B.
+- `mystyle.css` - File, 4.9 KB.
+- `nexpre.js` - File, 796 B.
+- `online-shop.jpg` - File, 63.6 KB.
+- `onlineshop.jpg` - File, 45.9 KB.
+- `page.php` - File, 1.2 KB.
+- `Page1.jpg` - File, 726.7 KB.
+- `pattern.jpg` - File, 203.9 KB.
+- `pattern1.JPG` - File, 11.0 KB.
+- `PhotoGrid_1440655461927.jpg` - File, 1.6 MB.
+- `popform.php` - File, 966 B.
+- `popupform.html` - File, 959 B.
+- `post.css` - File, 138 B.
+- `SandwichshopSign.jpg` - File, 12.8 KB.
+- `sandwishshop.jpg` - File, 41.8 KB.
+- `setup.php` - File, 344 B.
+- `sidebar-content.css` - File, 158 B.
+- `slide.js` - File, 201 B.
+- `slider.php` - File, 954 B.
+- `slider1.php` - File, 954 B.
+- `step0006.gif` - File, 16.8 KB.
+- `step0006.jpg` - File, 34.4 KB.
+- `step00061_edited-3.jpg` - File, 30.1 KB.
+- `step0007.gif` - File, 19.6 KB.
+- `step0007_edited-10.jpg` - File, 47.2 KB.
+- `step0007_edited-11.jpg` - File, 76.1 KB.
+- `step0007_edited-12.jpg` - File, 47.8 KB.
+- `step0007_edited-3.jpg` - File, 76.2 KB.
+- `step0007_edited-4.jpg` - File, 45.3 KB.
+- `step0007_edited-5.jpg` - File, 47.8 KB.
+- `step0007_edited-8.jpg` - File, 40.3 KB.
+- `step0007_edited-9.jpg` - File, 79.8 KB.
+- `style.css` - File, 12.0 KB.
+- `templatename.php` - File, 947 B.
+- `templatepg.php` - File, 1.2 KB.
+- `testpage.php` - File, 138 B.
+- `Untitled-2.png` - File, 102.1 KB.
+- `Untitled-21.png` - File, 41.0 KB.
+- `updated logo.gif` - File, 4.0 KB.

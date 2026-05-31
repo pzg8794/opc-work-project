@@ -1,24 +1,218 @@
-# Overleaf Preparation
+<!-- AUTO-GENERATED-PORTFOLIO-README -->
+# Overleaf Prep
 
-Repository: `opc-work-project`
+Paper, report, and presentation files imported into GitHub are grouped here for later Overleaf conversion.
 
-Drive source: https://drive.google.com/drive/folders/1imPlJSNqt6v7JYMas8Dq0kuw9x8hcpDR
+## Papers
 
-## Classified Material Counts
+- `papers/ECONOMICS_STUDY_GUIDE_MIDTERM.doc`
+- `papers/Elvis AV Proposal # 2.pdf`
+- `papers/Elvis_AV_Proposal_#_2.doc.docx`
+- `papers/Stuff/Fisher/Elvis AV Proposal # 2.pdf`
+- `papers/Stuff/Fisher/Elvis_AV_Proposal_#_2.doc.docx`
 
-- `papers/`: 2 file(s)
-- `reports/`: 0 file(s)
-- `presentations/`: 2 file(s)
+## Reports
 
-## Conversion Workflow
+- `reports/09septaa.txt`
+- `reports/2010session (2).rtf`
+- `reports/2010session.pdf`
+- `reports/2010session.rtf`
+- `reports/2010session1.rtf`
+- `reports/2013CBC_Advisory_Manual.pdf`
+- `reports/ABOUT_APACHE.txt`
+- `reports/ADA Accessible Lockers.docx`
+- `reports/Additional Forms (2015).pdf`
+- `reports/AllDay_Multi-Day- Holiday- Peak Seaon-Time Decay.docx`
+- `reports/AMERICAN_NV200_LEAFLET.pdf`
+- `reports/Apex_Manual.pdf`
+- `reports/ApplicationParts.txt`
+- `reports/Audi Viz Feb 28-Rev 3.doc`
+- `reports/Audi Viz Feb 28-Rev 3.pdf`
+- `reports/AudiVizFeb28-Rev3.doc`
+- `reports/Bill Acceptors and Features Comparison.docx`
+- `reports/Boarder 2.docx`
+- `reports/Boarder.docx`
+- `reports/bv50-leaflet.pdf`
+- `reports/bv50-technical-manual.pdf`
+- `reports/Card-No1-Information.pdf`
+- `reports/cbu.txt`
+- `reports/changelog--from-inkzine-plus-inkzine-plus.txt`
+- `reports/changelog--from-MadChefKitchen-inkzine.txt`
+- `reports/changelog.txt`
+- `reports/CHANGES--from-xampp-apache.txt`
+- `reports/changes.txt`
+- `reports/Codificador CRT-591_ct_ENG1.pdf`
+- `reports/Communication Protocol CD.docx`
+- `reports/Communication Protocol EL.doc`
+- `reports/confirmation letter PG.docx`
+- `reports/Copy of index.txt`
+- `reports/Director of Marketing (Autosaved).docx`
+- `reports/Director of Marketing.docx`
+- `reports/download.csv`
+- `reports/draft1.txt`
+- `reports/draft2.txt`
+- `reports/draft3.txt`
+- `reports/draft4.txt`
+- `reports/draft5.txt`
+- `reports/draft6.txt`
+- `reports/draft7.txt`
+- `reports/End.pdf`
+- `reports/F1 Tiburon RFP Introduction.docx`
+- `reports/F2 Administration Local Interface.docx`
+- `reports/F3 Administration Web Interface.docx`
+- `reports/F4 User Interface.docx`
+- `reports/F5 Mobile Interface.docx`
+- `reports/F7 3rd Party Hardware.docx`
+- `reports/F8 Tiburon Hardware.docx`
+- `reports/Feature Specs.docx`
+- `reports/Final Safety & Risk Declaration Cardiff].doc`
+- `reports/Final Safety & Risk Declaration Cardiff].pdf`
+- `reports/Fire Risk Assessment.doc`
+- `reports/FoodQuestionnaireShort_member.docx`
+- `reports/Global Warming--from-Global-Warming-Speech-Global-Warming.docx`
+- `reports/Global Warming.1.docx`
+- `reports/GLOBAL WARMING.docx`
+- `reports/Globalization and Technology.docx`
+- `reports/Greenhouse Gase1.docx`
+- `reports/Greenhouse Gases.docx`
+- `reports/hbu.txt`
+- `reports/HelpScript.txt`
+- `reports/HT-24 28 ENCODER.pdf`
+- `reports/hw3 (for loops).pdf`
+- `reports/impactly-hubspot-vast-css backup.txt`
+- `reports/Indoors.docx`
+- `reports/INSTALL.txt`
+- `reports/Instructions.docx`
+- `reports/Instructions.pdf`
+- `reports/International Cinema.docx`
+- `reports/INTRODUCTION.docx`
+- `reports/INTRODUCTION1.docx`
+- `reports/invite 3.docx`
+- `reports/jbu.txt`
+- `reports/John - Audi Viz Feb 28-Rev 3-H.docx`
+- `reports/KillDisk.pdf`
+- `reports/license--from-inkzine-plus-inkzine-plus.txt`
+- `reports/license--from-MadChefKitchen-inkzine-plus1.txt`
+- `reports/license--from-MadChefKitchen-inkzine.txt`
+- `reports/license--from-MadChefKitchen-starsofa.txt`
+- `reports/license--from-MadChefKitchen-starsofa1.txt`
+- `reports/LICENSE.txt`
+- `reports/Logo.docx`
+- `reports/MadChefKitchen.pdf`
+- `reports/Marketing Breaf.docx`
+- `reports/Marketing Program.doc`
+- `reports/Mechanical Operating and Maintenance Manual.doc`
+- `reports/Mechanical Operating and Maintenance Manual.docx`
+- `reports/Mechanical Operating and Maintenance Manual.pdf`
+- `reports/Medical Consent Form (Park & Play)[1].doc`
+- `reports/Medical Consent Form _Activities_[1] Cardiff.doc`
+- `reports/Medical Consent Form _Activities_[1] Cardiff.pdf`
+- `reports/Melting Ice Caps.docx`
+- `reports/Microsoft Word - Fire.rtf`
+- `reports/Microsoft Word - Food Policy.doc`
+- `reports/Microsoft Word - Form 01 Nominated Supplier List.doc`
+- `reports/Microsoft Word - Form 02 Delivery Monitoring.rtf`
+- `reports/Microsoft Word - H&S policy.doc`
+- `reports/Microsoft Word - H&S Risk Assessment.doc`
+- `reports/mockUp.pdf`
+- `reports/mockup2, editing.doc`
+- `reports/mockup2.doc`
+- `reports/mockUp2.pdf`
+- `reports/Montana.docx`
+- `reports/Multidaywriteup DS.docx`
+- `reports/MX53_Combo_SC.pdf`
+- `reports/myscripts.txt`
+- `reports/mystyle.txt`
+- `reports/nav buttons.txt`
+- `reports/NDA_Piter.docx`
+- `reports/NDA_Piter.pdf`
+- `reports/New AD COPY.docx`
+- `reports/notesfrommildmelddan.txt`
+- `reports/notesfrommildmeldtom.txt`
+- `reports/NOTICE.txt`
+- `reports/NV200 appendices manual section 6.pdf`
+- `reports/NV200 field service manual section 2.pdf`
+- `reports/NV200 manual introduction.pdf`
+- `reports/NV200 mechanical and electrical manual section 4.pdf`
+- `reports/NV200 quick start manual section 1.pdf`
+- `reports/NV200 software implementation manual section 5.pdf`
+- `reports/NV200 software support manual section 3.pdf`
+- `reports/nv200-leaflet.pdf`
+- `reports/NV200_appendices_manual_section_6.docx`
+- `reports/NV9USB appendices manual section 6.pdf`
+- `reports/NV9USB field service manual section 2.pdf`
+- `reports/NV9USB manual introduction.pdf`
+- `reports/NV9USB mechanical and electrical manual section 4.pdf`
+- `reports/NV9USB quick start manual section 1.pdf`
+- `reports/NV9USB software implementation manual section 5.pdf`
+- `reports/NV9USB software support manual section 3.pdf`
+- `reports/nv9usb-maintenance-guide.pdf`
+- `reports/OcoeeInnRaftingWaiver(fixed).docx`
+- `reports/OcoeeInnRaftingWaiver(fixed).rtf`
+- `reports/OcoeeInnRaftingWaiver.doc`
+- `reports/OcoeeInnRaftingWaiver.pdf`
+- `reports/OPENSSL-NEWS.txt`
+- `reports/OPENSSL-README.txt`
+- `reports/Outline.docx`
+- `reports/passwords.txt`
+- `reports/PeriodicW-O-OLF.docx`
+- `reports/PG Confirmation Letter.pdf`
+- `reports/PPTLS_Proctoring_OffCampusInstructions.pdf`
+- `reports/Progressive.docx`
+- `reports/Project-Mock up (2).docx`
+- `reports/Project-Mock up.docx`
+- `reports/Project-Mock up2.docx`
+- `reports/Project-Mockup.pdf`
+- `reports/Project-Mockup0.pdf`
+- `reports/PTLS_Proctoring_OffCampusInstructions.pdf`
+- `reports/readme--from-inkzine-plus-inkzine-plus.txt`
+- `reports/readme--from-MadChefKitchen-inkzine.txt`
+- `reports/readme--from-MadChefKitchen-starsofa.txt`
+- `reports/readme--from-MadChefKitchen-starsofa1.txt`
+- `reports/README--from-xampp-apache.txt`
+- `reports/readme.auth_remote.txt`
+- `reports/readme.txt`
+- `reports/readme_de.txt`
+- `reports/readme_en.txt`
+- `reports/Reichmann.docx`
+- `reports/Rent.pdf`
+- `reports/Ride Lockers.docx`
+- `reports/script.txt`
+- `reports/simple-products.csv`
+- `reports/Snow Pic.docx`
+- `reports/SNOWPARK_11-BB.pdf`
+- `reports/Sponsored Links.docx`
+- `reports/SummaryReport.pdf`
+- `reports/Surfas Schedule v2.docx`
+- `reports/Surfas Schedule.docx`
+- `reports/Survey.docx`
+- `reports/Terms and Conditions _Park & Play_[1].doc`
+- `reports/Terms and Conditions for Activities[1] Cardiff.doc`
+- `reports/Terms and Conditions for Activities[1] Cardiff.pdf`
+- `reports/TIB_003.1 - Statement of Work - E-locker and Charge Daddy - TrackChanges....pdf`
+- `reports/Tiburon Charge Daddy Administrator User Guide Tech Instruction 1.d.docx`
+- `reports/Tiburon Charge Daddy Venue User Guide Tech Instruction 1.d.docx`
+- `reports/TLS_Proctoring_OffCampusInstructions.docx`
+- `reports/TLS_Proctoring_OffCampusInstructions.pdf`
+- `reports/UPDATED CULVER CITY CLASS SCHEDULE.docx`
+- `reports/US National WW Center Waiver.doc`
+- `reports/US National WW Center Waiver.pdf`
+- `reports/Visio-Progressive Flowchart.pdf`
+- `reports/WA F&B BP.101.doc`
+- `reports/WA F&B BP.101.docx`
+- `reports/WA F&B BP.101.pdf`
+- `reports/waiver SURF LA.doc`
+- `reports/waiver SURF LA.pdf`
 
-1. Start with source files in `papers/`, `reports/`, or `presentations/`.
-2. Prefer existing `.tex` files when present.
-3. For `.doc`, `.docx`, `.rtf`, `.ppt`, or `.pptx`, convert into LaTeX/Beamer later and keep the original in its current directory.
-4. Use PDFs as reference outputs, not editable sources, unless no source document exists.
+## Presentations
 
-## Move Summary
-
-- Moved into `papers/`: 2 file(s) in this cleanup pass
-- Moved into `reports/`: 0 file(s) in this cleanup pass
-- Moved into `presentations/`: 2 file(s) in this cleanup pass
+- `presentations/Concept Presentation.doc`
+- `presentations/Greenhouse.ppsx`
+- `presentations/Greenhouse.ppt`
+- `presentations/Greenhouse.pptx`
+- `presentations/IDF14_ChargingLockers_ScreenFlow_082214.pptx`
+- `presentations/markerting plan.pptx`
+- `presentations/Pollution.ppsx`
+- `presentations/Stuff/Fisher/Concept Presentation.doc`
+- `presentations/Stuff/Fisher/markerting plan.pptx`
+- `presentations/XXXGreenhouse.ppsx`

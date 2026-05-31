@@ -1,0 +1,72 @@
+<!-- AUTO-GENERATED-PORTFOLIO-README -->
+# images
+
+This index keeps the directory navigable and points each item to its current role.
+
+## Contents
+
+- `assm1.png` - File, 247.8 KB.
+- `assm2.png` - File, 211.2 KB.
+- `assm3.png` - File, 260.2 KB.
+- `assm9.png` - File, 513.1 KB.
+- `clip.png` - File, 170.5 KB.
+- `cnnctr.png` - File, 344.5 KB.
+- `ctrl.png` - File, 204.2 KB.
+- `cut.png` - File, 272.7 KB.
+- `cut1.png` - File, 170.4 KB.
+- `cutter.png` - File, 242.1 KB.
+- `drill.png` - File, 203.1 KB.
+- `holes.png` - File, 273.2 KB.
+- `holet.png` - File, 184.2 KB.
+- `horns.png` - File, 300.5 KB.
+- `link0.png` - File, 245.6 KB.
+- `link1.png` - File, 196.5 KB.
+- `link2.png` - File, 153.5 KB.
+- `logo2.gif` - File, 9.1 KB.
+- `lube0.png` - File, 143.5 KB.
+- `lube1.png` - File, 269.9 KB.
+- `lube2.png` - File, 186.7 KB.
+- `lube3.png` - File, 264.3 KB.
+- `lube4.png` - File, 234.6 KB.
+- `lube5.png` - File, 261.8 KB.
+- `lube6.png` - File, 194.1 KB.
+- `mag1.png` - File, 868.7 KB.
+- `mag2.png` - File, 584.9 KB.
+- `mag3.png` - File, 151.0 KB.
+- `mag4.png` - File, 275.9 KB.
+- `magt.png` - File, 282.5 KB.
+- `mod.png` - File, 341.0 KB.
+- `moddbl.png` - File, 186.6 KB.
+- `modpos.png` - File, 233.5 KB.
+- `pph.png` - File, 6.1 KB.
+- `reed0.png` - File, 169.5 KB.
+- `reed1.png` - File, 209.8 KB.
+- `reed2.png` - File, 135.5 KB.
+- `reed3.png` - File, 163.8 KB.
+- `reed4.png` - File, 144.0 KB.
+- `reed5.png` - File, 153.4 KB.
+- `reed6.png` - File, 285.6 KB.
+- `rwrk2.png` - File, 147.6 KB.
+- `rwrk3.png` - File, 158.0 KB.
+- `servo.png` - File, 258.5 KB.
+- `shoulder.png` - File, 243.4 KB.
+- `shoulder0.png` - File, 478.7 KB.
+- `slot.png` - File, 257.1 KB.
+- `space0.png` - File, 373.2 KB.
+- `spaceg.png` - File, 704.4 KB.
+- `spaceng.png` - File, 652.9 KB.
+- `spring1.png` - File, 203.7 KB.
+- `spring2.png` - File, 224.0 KB.
+- `stndffg.png` - File, 177.4 KB.
+- `stndffng.png` - File, 197.4 KB.
+- `stud1.png` - File, 280.6 KB.
+- `stud2.png` - File, 587.6 KB.
+- `stud3.png` - File, 71.1 KB.
+- `stud4.png` - File, 294.0 KB.
+- `studn.png` - File, 389.1 KB.
+- `studt.png` - File, 290.0 KB.
+- `tape.png` - File, 284.9 KB.
+- `tool.png` - File, 165.8 KB.
+- `usb1.png` - File, 424.3 KB.
+- `usb2.png` - File, 244.2 KB.
+- `usbcab.png` - File, 206.8 KB.

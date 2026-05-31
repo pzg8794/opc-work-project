@@ -1,0 +1,69 @@
+DROP VIEW IF EXISTS "UsageReport";
+
+DROP TRIGGER IF EXISTS "RecordTempLockerEventAccessCardsTrigger" ON "LockerEvents";
+
+DROP FUNCTION IF EXISTS "RecordTempLockerEventAccessCards"();
+
+DROP TABLE IF EXISTS "TempLockerEventAccessCards";
+
+CREATE TABLE "TempLockerEventAccessCards"
+(
+   "ID" serial NOT NULL,
+   "IDLockerEvent" integer NOT NULL, 
+   "Code" character varying,
+   CONSTRAINT "pk_temp_locker_event_access_cards_id" PRIMARY KEY ("ID")
+)
+WITH (
+  OIDS = FALSE
+);
+
+CREATE OR REPLACE FUNCTION "RecordTempLockerEventAccessCards"()
+	RETURNS trigger AS
+$$
+BEGIN
+	IF (NEW."IDEventType" = (SELECT "ID" FROM "EventTypes" WHERE "Description" = 'Rent locker') AND ((SELECT count(*) FROM "AccessCards") > 0)) THEN
+		INSERT INTO "TempLockerEventAccessCards"("IDLockerEvent", "Code")
+		VALUES (NEW."ID", (SELECT "Code" FROM "AccessCards" AS ac WHERE ac."ID" = (SELECT MAX("ID") FROM "AccessCards")));
+	END IF;
+	
+	RETURN NEW;
+END;
+$$
+LANGUAGE 'plpgsql';
+	
+CREATE TRIGGER "RecordTempLockerEventAccessCardsTrigger"
+	AFTER INSERT
+	ON "LockerEvents"
+	FOR EACH ROW
+	EXECUTE PROCEDURE "RecordTempLockerEventAccessCards"();
+
+COPY  (
+SELECT start."IDLocker", tleac."Code", start."DateEvent" AS "StartDate", start."TimeEvent" AS "StartTime", last."DateEvent" AS "EndDate", last."TimeEvent" AS "EndTime", 
+	(SELECT count(*) FROM "LockerEvents" AS open WHERE open."ID" > start."ID" AND open."ID" < last."ID" AND open."IDLocker" = start."IDLocker" AND open."IDEventType" = (SELECT "ID" FROM "EventTypes" WHERE "Description" = 'Open locker')) AS "CountInteractions"
+FROM "LockerEvents" AS start
+LEFT OUTER JOIN "LockerEvents" AS next
+	ON next."ID" = 
+	(SELECT le2."ID"
+		FROM "LockerEvents" AS le2
+		WHERE le2."ID" > start."ID"
+		AND le2."IDLocker" = start."IDLocker"
+		AND le2."IDEventType" = 
+			(SELECT "ID" 
+			FROM "EventTypes"
+			WHERE "Description" = 'Rent locker')
+		ORDER BY le2."ID"
+		LIMIT 1)
+LEFT OUTER JOIN "LockerEvents" AS last
+	ON last."IDLocker" = start."IDLocker"
+	AND last."ID" > start."ID"
+	AND ((next."ID" IS NULL) OR (last."ID" < next."ID"))
+LEFT OUTER JOIN "TempLockerEventAccessCards" AS tleac
+	ON tleac."IDLockerEvent" = start."ID"
+WHERE start."IDEventType" = 
+	(SELECT "ID" 
+		FROM "EventTypes"
+		WHERE "Description" = 'Rent locker')
+)	
+  TO 'D:\Users\Public\Documents\accessOut2.csv' 
+  DELIMITER ','
+  CSV HEADER;

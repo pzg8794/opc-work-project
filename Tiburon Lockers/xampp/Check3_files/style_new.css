@@ -1,0 +1,197 @@
+﻿.tabaccountsoff {
+	WIDTH: 117px; BACKGROUND: url(../images/sprite_segment_col.gif) #ffffff 0px 1px
+}
+.tabaccountson
+{
+	background:#FFFFFF url('../images/sprite_segment_col.gif') 0 -35px;
+	width: 117px;
+}
+.tabcustomercenteroff {
+	WIDTH: 149px; BACKGROUND: url(../images/sprite_segment_col.gif) #ffffff 0px -264px
+}
+.tabcustomercenteron {
+	WIDTH: 149px; BACKGROUND: url(../images/sprite_segment_col.gif) #ffffff 0px -297px
+}
+.tabinvestingoff {
+	WIDTH: 99px; BACKGROUND: url(../images/sprite_segment_col.gif) #ffffff 0px -198px
+}
+.tabinvestingon {
+	WIDTH: 99px; BACKGROUND: url(../images/sprite_segment_col.gif) #ffffff 0px -231px
+}
+.tabpaymentsoff
+{
+	background:#FFFFFF url('../images/sprite_segment_col.gif') 0 -66px;
+	width: 170px;
+}
+.tabpaymentson {
+	WIDTH: 170px; BACKGROUND: url(../images/sprite_segment_col.gif) #ffffff 0px -99px
+}
+.tabproductsoff {
+	WIDTH: 164px; BACKGROUND: url(../images/sprite_segment_col.gif) #ffffff 0px -132px
+}
+.tabproductson {
+	WIDTH: 164px; BACKGROUND: url(../images/sprite_segment_col.gif) #ffffff 0px -165px
+}
+.tabwidth{
+	width:990px;
+	margin-left:10px;
+}
+.headerbardate {
+	font-weight:normal;
+	padding-top:2px;
+	padding-bottom: 3px;
+	padding-right:15px;
+	text-align:right;
+	vertical-align:bottom;
+}
+.headerbar {
+	color:#585858;
+	font-size:10px;
+	font-style:normal;
+}
+.headerbarwidth {
+	background-color: #E0E1E3;
+	background-image: none;
+	border-left: 4px solid #5181b2;
+	border-right: 4px solid #5181b2;
+	border-top: 4px solid #5181b2;
+	width: 990px;
+}
+.supsm {
+	font-size:7px;
+	color:#000000;
+}
+.fullwidth
+{
+	width:990px;
+}
+.column4
+{
+	width: 222px;
+}
+
+/*AR added this for the bubble bullets*/
+/*NEW added link classes for quickpay and bad mailing address alerts link*/
+a.redText:Link,a.redText:visited{ 
+	color: #BF5817;
+	font-size:12px;
+	text-decoration:none;
+}
+
+a.redText:active,a.redText:hover{ 
+	color: #BF5817;
+	font-size:12px;
+	text-decoration:underline;
+}
+/*END  NEW added link classes for quickpay and bad mailing address alerts link*/
+
+
+/* Styles specific to Business banking */
+ .newsum {
+    background-color: transparent;
+    color: #666666;
+    font-size: 75%;
+    font-weight: bold;
+    margin-bottom: 0;
+    margin-left: 15px;
+    margin-top: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 8px;
+    text-align: center;
+    vertical-align: top;
+}
+a.helplinks:link, a.helplinks:visited {
+	background-color:transparent;
+	color:#074D8D;
+	font-size:12px;
+	font-weight:normal;
+	text-decoration:none;
+}
+a.helplinks:active, a.helplinks:hover {
+	background-color:transparent;
+	color:#074D8D;
+	font-size:12px;
+	font-weight:normal;
+	text-decoration:underline;
+}
+a.toplinks:link, a.toplinks:visited {
+	background-color:transparent;
+	color:#074D8D;
+	font-size:12px;
+	text-decoration:none;
+	position:relative;
+}
+a.toplinks:active, a.toplinks:hover {
+	background-color:transparent;
+	color:#074D8D;
+	font-size:12px;
+	text-decoration: underline;
+	position:relative;
+}
+.greeting {
+	background-color:transparent;
+	color:#333333;
+	font-size:18px;
+	font-weight:normal;
+	padding-left:15px;
+}
+.session_summary {
+	font-size:10px;
+	color:#585858;
+}
+.greysm {
+	font-size:10px;
+	color:#585858;
+}
+
+.chaseutil-hide {display:none!important; visibility:hidden!important;}
+.chaseutil-hide * {position:static!important;}
+.chaseutil-hidevisual, .chaseutil-hidevisual2 {position:absolute; width:0; height:1px; left:-20000px; overflow:hidden;}
+.chaseutil-hidevisual2:active, .chaseutil-hidevisual2:focus {color:#074D8D; font-size:12px; left:0; text-decoration:underline; width:100%; height:auto; line-height:auto; overflow:visible; position:relative;}
+
+.bubble_overlay {
+	Z-INDEX: 35; POSITION: absolute; BACKGROUND-COLOR: #fff; margin-top: 8px; margin-left:-45px; *margin-top:25px; *margin-left:-43px; ZOOM: 1; left:0px;
+}
+.bubble_overlay2 {
+	Z-INDEX: 35; POSITION: absolute; BACKGROUND-COLOR: #fff; margin-top: 8px; margin-left:-35px; *margin-top:25px; *margin-right:-5px;  ZOOM: 1;right:0;
+}
+.bubble_overlay3 {
+	Z-INDEX: 35; POSITION: absolute; BACKGROUND-COLOR: #fff; margin-top: 8px; margin-left:0px; *margin-top:25px; *margin-left:0px; ZOOM: 1; left:0px;
+}
+				
+/* AR added ie hacks for this */
+.bubble_overlay .arrow {
+	Z-INDEX: 10; POSITION: absolute; MARGIN-LEFT: 90px; TOP: -18px;*TOP:-17px; LEFT: 0px; top:-17px\0/;
+}
+.bubble_overlay2 .arrow {
+	Z-INDEX: 10; POSITION: absolute; MARGIN-LEFT: 120px; TOP: -18px;*TOP:-17px; LEFT: 0px; top:-17px\0/;
+}
+.bubble_overlay3 .arrow {
+	Z-INDEX: 10; POSITION: absolute; MARGIN-LEFT: 90px; TOP: -18px;*TOP:-17px; LEFT: 0px; top:-17px\0/;
+}
+
+
+.bubble_overlay .content {
+	POSITION: relative;  PADDING-BOTTOM: 8px; PADDING-LEFT: 5px; WIDTH: 180px;*width:180px; PADDING-RIGHT: 5px; FLOAT: left;  PADDING-TOP: 20px; text-align:left;border:1px solid #95BCD7; background-color:#F4F9FF; -moz-box-shadow:3px 3px 4px #AAA;-webkit-box-shadow:3px 3px 4px #AAA;box-shadow:3px 3px 4px #AAA;-ms-filter:"progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#AAAAAA')";filter:progid:DXImageTransform.Microsoft.Shadow(Strength=4,Direction=135,Color='#AAAAAA');
+}
+.bubble_overlay2 .content {
+	POSITION: relative;  PADDING-BOTTOM: 8px; PADDING-LEFT: 5px; WIDTH: 180px;*width:180px; PADDING-RIGHT: 5px; FLOAT: left;  PADDING-TOP: 20px; text-align:left;border:1px solid #95BCD7; background-color:#F4F9FF; -moz-box-shadow:3px 3px 4px #AAA;-webkit-box-shadow:3px 3px 4px #AAA;box-shadow:3px 3px 4px #AAA;-ms-filter:"progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#AAAAAA')";filter:progid:DXImageTransform.Microsoft.Shadow(Strength=4,Direction=135,Color='#AAAAAA');
+}
+.bubble_overlay3 .content {
+	POSITION: relative;  PADDING-BOTTOM: 8px; PADDING-LEFT: 5px; WIDTH: 180px;*width:180px; PADDING-RIGHT: 5px; FLOAT: left;  PADDING-TOP: 20px; text-align:left;border:1px solid #95BCD7; background-color:#F4F9FF; -moz-box-shadow:3px 3px 4px #AAA;-webkit-box-shadow:3px 3px 4px #AAA;box-shadow:3px 3px 4px #AAA;-ms-filter:"progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#AAAAAA')";filter:progid:DXImageTransform.Microsoft.Shadow(Strength=4,Direction=135,Color='#AAAAAA');
+}
+
+.bubble_overlay .content H4, .bubble_overlay2 .content H4, .bubble_overlay3 .content H4{
+	MARGIN: 0px; COLOR: #0066cc; FONT-SIZE: 13px;
+}
+.bubble_overlay .content p, .bubble_overlay2 .content p, .bubble_overlay3 .content p {
+	MARGIN: 0px 0px 10px 5px; 
+}
+
+/* AR added ie hacks for this */				
+.bubble_overlay .close-btn, .bubble_overlay2 .close-btn, .bubble_overlay3 .close-btn {
+	POSITION: absolute; TOP: -3px; *TOP: -3px; LEFT: 175px;*LEFT: 175px;*height:1%;
+
+}
+
