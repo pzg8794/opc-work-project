@@ -2,6 +2,10 @@
 
 Path: `Stuff/Fisher`
 
+## Purpose
+
+Indexed project directory from the old Portafolio cleanup.
+
 ## Items
 
 - `2010session (2).rtf` (file)
@@ -14,11 +18,8 @@ Path: `Stuff/Fisher`
 - `Boarder 2.docx` (file)
 - `Boarder.docx` (file)
 - `Chairlift.jpg` (file)
-- `Concept Presentation.doc` (file)
 - `dreamstime_602113.jpg` (file)
 - `ECONOMICS_STUDY_GUIDE_MIDTERM.doc` (file)
-- `Elvis AV Proposal # 2.pdf` (file)
-- `Elvis_AV_Proposal_#_2.doc.docx` (file)
 - `Final Safety & Risk Declaration Cardiff].doc` (file)
 - `Final Safety & Risk Declaration Cardiff].pdf` (file)
 - `Fire Risk Assessment.doc` (file)
@@ -30,7 +31,6 @@ Path: `Stuff/Fisher`
 - `KillDisk.pdf` (file)
 - `Logo.docx` (file)
 - `logog.jpg` (file)
-- `markerting plan.pptx` (file)
 - `Marketing Breaf.docx` (file)
 - `Marketing Program.doc` (file)
 - `Mechanical Operating and Maintenance Manual.doc` (file)
@@ -53,4 +53,4 @@ Path: `Stuff/Fisher`
 
 ## Notes
 
-This directory was indexed from the old Portafolio Drive source. Large binaries and archives may remain Drive-only.
+README generated during the old Portafolio cleanup. Use the root README and `OVERLEAF_PREP.md` for source and conversion context.

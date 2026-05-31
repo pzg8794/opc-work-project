@@ -1,10 +1,10 @@
 # Stuff
 
-Path: `Stuff`
+Path: `papers/Stuff`
 
 ## Purpose
 
-Indexed project directory from the old Portafolio cleanup.
+Paper/research/proposal materials staged for future Overleaf conversion.
 
 ## Items
 

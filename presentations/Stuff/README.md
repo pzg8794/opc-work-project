@@ -1,10 +1,10 @@
 # Stuff
 
-Path: `Stuff`
+Path: `presentations/Stuff`
 
 ## Purpose
 
-Indexed project directory from the old Portafolio cleanup.
+Presentation, slide, and poster materials separated for later deck/Overleaf-related reuse.
 
 ## Items
 
